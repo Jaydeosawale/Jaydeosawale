@@ -81,7 +81,7 @@ To build intelligent, scalable, and production-ready applications by combining:
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: Add your LinkedIn link here
-- 🌐 Portfolio: Add your portfolio link here
+- 💼 LinkedIn: 
+- 🌐 Portfolio: https://jaydeo-sawale-portfolio.vercel.app/
 
 ⭐ Explore my repositories to see what I'm building!
