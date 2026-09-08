@@ -1,10 +1,10 @@
 # Hi 👋 I'm Jaydeo Sawale
 
-### 🚀 AI/ML & GenAI Engineer | Production AI Systems | Native Android (Kotlin) & Flutter Developer
+### 🚀 AI/ML & GenAI Engineer | Production AI Systems | Native Android (Kotlin) & Flutter Multiplatform Developer
 
-I am a software developer with experience in **Native Android development using Kotlin** and **Flutter development**, currently building expertise and practical projects across **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, RAG, and MLOps**.
+I am a software developer with experience in **Native Android development using Kotlin** and **Flutter multiplatform development**, currently building practical projects and expertise across **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, RAG, and MLOps**.
 
-I enjoy building **end-to-end applications** — from mobile applications and backend APIs to machine learning models, AI systems, and production-ready deployments.
+I enjoy building **end-to-end applications** — from mobile and multiplatform applications to backend APIs, machine learning models, AI systems, and production-ready deployments.
 
 ---
 
@@ -37,20 +37,23 @@ I enjoy building **end-to-end applications** — from mobile applications and ba
 
 ---
 
-## 📱 Mobile & Software Development
+## 📱 Mobile & Multiplatform Development
 
-### Native Android Development
+### 🤖 Native Android Development
 
 - Kotlin
-- Android Development
 - Android SDK
-- Native Mobile Applications
+- Native Android Applications
+- Android Application Development
 
-### Cross-Platform Development
+### 💙 Flutter Multiplatform Development
 
 - Flutter
 - Dart
-- Cross-Platform Mobile Application Development
+- Android
+- iOS
+- Web
+- Desktop Applications
 
 ---
 
@@ -104,7 +107,7 @@ A Generative AI and RAG-based project designed for intelligent document explorat
 
 ## ✈️ AI Travel Planner
 
-An AI-powered travel planning application combining mobile development, backend engineering, and AI technologies.
+An AI-powered travel planning application combining multiplatform development, backend engineering, and AI technologies.
 
 **Technology areas:**
 
@@ -129,7 +132,7 @@ An AI-powered travel planning application combining mobile development, backend 
 
 `FastAPI` • `MLflow` • `Docker` • `Git` • `GitHub Actions` • `CI/CD`
 
-### Mobile Development
+### Mobile & Multiplatform
 
 `Native Android` • `Kotlin` • `Android SDK` • `Flutter` • `Dart`
 
@@ -153,13 +156,11 @@ An AI-powered travel planning application combining mobile development, backend 
 
 To build **intelligent, scalable, and production-ready applications** by combining:
 
-> **AI + Machine Learning + Deep Learning + Software Engineering + Mobile Development**
+> **AI + Machine Learning + Deep Learning + Software Engineering + Mobile & Multiplatform Development**
 
 ---
 
 ### 🚀 Building practical AI-powered applications for real-world problems.
-
-### 📫 Let's Connect
 
 - 🌐 Portfolio: https://jaydeo-sawale-portfolio.vercel.app/
 
