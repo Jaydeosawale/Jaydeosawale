@@ -1,8 +1,8 @@
 # Hi 👋 I'm Jaydeo Sawale
 
-### 🚀 AI/ML & GenAI Engineer | Production AI Systems | Flutter & Android Developer
+### 🚀 AI/ML & GenAI Engineer | Production AI Systems | Native Android (Kotlin) & Flutter Developer
 
-I am a software developer with experience in **Android and Flutter development**, currently building and engineering solutions across **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, RAG, and MLOps**.
+I am a software developer with experience in **Native Android development using Kotlin** and **Flutter development**, currently building expertise and practical projects across **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, RAG, and MLOps**.
 
 I enjoy building **end-to-end applications** — from mobile applications and backend APIs to machine learning models, AI systems, and production-ready deployments.
 
@@ -10,38 +10,47 @@ I enjoy building **end-to-end applications** — from mobile applications and ba
 
 ## 🧠 AI, Machine Learning & Generative AI
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning & Neural Networks
-- ✨ Generative AI
-- 💬 Large Language Models (LLMs)
-- 🔎 RAG (Retrieval-Augmented Generation)
-- 🤝 AI Agents
-- 📝 Natural Language Processing (NLP)
-- 🔄 Transformers
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Generative AI
+- Large Language Models (LLMs)
+- RAG (Retrieval-Augmented Generation)
+- AI Agents
+- Natural Language Processing (NLP)
+- Transformers
 
 ---
 
 ## ⚙️ AI Engineering & MLOps
 
-- 🐍 Python
-- ⚡ FastAPI
-- 📊 MLflow
-- 🐳 Docker
-- 🔄 Git & GitHub
-- ⚙️ GitHub Actions / CI/CD
-- 🧪 Model Training & Evaluation
-- 📈 Experiment Tracking
-- ✅ Data Validation
-- 🚀 Production AI Systems
+- Python
+- FastAPI
+- Machine Learning Model Training & Evaluation
+- MLflow Experiment Tracking
+- Model Versioning
+- Data Validation
+- Docker
+- Git & GitHub
+- GitHub Actions / CI/CD
+- Production AI & ML Systems
 
 ---
 
-## 📱 Mobile Development
+## 📱 Mobile & Software Development
 
-- 💙 Flutter
-- 🎯 Dart
-- 🤖 Android Development
-- 📱 Mobile Application Development
+### Native Android Development
+
+- Kotlin
+- Android Development
+- Android SDK
+- Native Mobile Applications
+
+### Cross-Platform Development
+
+- Flutter
+- Dart
+- Cross-Platform Mobile Application Development
 
 ---
 
@@ -49,48 +58,47 @@ I enjoy building **end-to-end applications** — from mobile applications and ba
 
 ## 🛡️ MessageShield AI
 
-An AI-powered message security and safety analysis platform.
+An AI-powered message safety and classification platform designed to analyze messages and identify potential safety risks.
 
 **Key areas:**
+
 - Machine Learning-based message classification
 - Message safety and risk analysis
 - Backend APIs
-- Model evaluation workflows
-- CI/CD and production engineering practices
-
-🔗 **Repository:** Add your MessageShield GitHub repository link here
+- Model evaluation
+- Data validation
+- CI/CD workflows
+- Production engineering practices
 
 ---
 
 ## 🚨 FraudGuard MLOps
 
-An end-to-end Machine Learning and MLOps project focused on building a reproducible ML pipeline.
+An end-to-end Machine Learning and MLOps project focused on building reproducible and production-oriented ML workflows.
 
 **Key areas:**
-- Data validation
+
+- Data validation and contracts
 - Model training and evaluation
 - MLflow experiment tracking
-- Model versioning
+- Model registration and versioning
 - Docker
 - CI/CD
 - Production ML workflows
-
-🔗 **Repository:** Add your FraudGuard GitHub repository link here
 
 ---
 
 ## ⚖️ LegalLens AI
 
-A Generative AI and RAG-based system designed for intelligent document exploration and information retrieval.
+A Generative AI and RAG-based project designed for intelligent document exploration and information retrieval.
 
 **Key areas:**
+
 - Generative AI
 - RAG architecture
-- Document retrieval
+- Document processing
+- Semantic retrieval
 - LLM-powered question answering
-- AI application development
-
-🔗 **Repository:** Add your LegalLens GitHub repository link here
 
 ---
 
@@ -99,39 +107,43 @@ A Generative AI and RAG-based system designed for intelligent document explorati
 An AI-powered travel planning application combining mobile development, backend engineering, and AI technologies.
 
 **Technology areas:**
+
 - Flutter
 - FastAPI
-- AI Agents
-- API Integration
-
-🔗 **Repository:** Add your AI Travel Planner repository link here
+- AI-powered planning
+- API integration
 
 ---
 
 ## 🛠️ Technology Stack
 
-**Languages & Development**
+### Languages
 
-`Python` • `Dart` • `Flutter` • `Android`
+`Python` • `Kotlin` • `Dart`
 
-**AI & ML**
+### AI & Machine Learning
 
-`Machine Learning` • `Deep Learning` • `LLMs` • `RAG` • `NLP` • `Transformers` • `AI Agents`
+`Machine Learning` • `Deep Learning` • `Neural Networks` • `LLMs` • `RAG` • `NLP` • `Transformers` • `AI Agents`
 
-**Engineering & MLOps**
+### Backend & MLOps
 
 `FastAPI` • `MLflow` • `Docker` • `Git` • `GitHub Actions` • `CI/CD`
 
+### Mobile Development
+
+`Native Android` • `Kotlin` • `Android SDK` • `Flutter` • `Dart`
+
 ---
 
-## 🎯 Currently Learning
+## 🎯 Currently Learning & Building
 
 - Deep Learning from First Principles
-- Neural Networks
 - Advanced Machine Learning
+- Neural Networks
 - Transformers
 - Large Language Models
 - Advanced RAG Systems
+- AI Agents
 - Production AI Engineering
 - MLOps
 
@@ -141,12 +153,14 @@ An AI-powered travel planning application combining mobile development, backend 
 
 To build **intelligent, scalable, and production-ready applications** by combining:
 
-> **AI + Machine Learning + Software Engineering + Mobile Development**
+> **AI + Machine Learning + Deep Learning + Software Engineering + Mobile Development**
 
 ---
 
+### 🚀 Building practical AI-powered applications for real-world problems.
+
 ### 📫 Let's Connect
-- 💼 LinkedIn: 
+
 - 🌐 Portfolio: https://jaydeo-sawale-portfolio.vercel.app/
 
-⭐ Explore my repositories to see what I'm building!
+⭐ Feel free to explore my repositories and follow my journey!
