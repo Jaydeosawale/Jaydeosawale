@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <strong>🚀 AI/ML Engineer | GenAI Specialist | Native Android & Flutter Developer</strong>
+    <strong>🚀 AI/ML Engineer | GenAI | Native Android & Flutter Developer</strong>
   </p>
   <p>
     Building intelligent, scalable, and production-ready applications combining AI, ML, and modern software engineering
