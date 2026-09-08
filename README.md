@@ -1,167 +1,187 @@
 # Hi 👋 I'm Jaydeo Sawale
 
-### 🚀 AI/ML & GenAI Engineer | Production AI Systems | Native Android (Kotlin) & Flutter Multiplatform Developer
-
-I am a software developer with experience in **Native Android development using Kotlin** and **Flutter multiplatform development**, currently building practical projects and expertise across **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, RAG, and MLOps**.
-
-I enjoy building **end-to-end applications** — from mobile and multiplatform applications to backend APIs, machine learning models, AI systems, and production-ready deployments.
+<div align="center">
+  <p>
+    <strong>🚀 AI/ML Engineer | GenAI Specialist | Native Android & Flutter Developer</strong>
+  </p>
+  <p>
+    Building intelligent, scalable, and production-ready applications combining AI, ML, and modern software engineering
+  </p>
+</div>
 
 ---
 
-## 🧠 AI, Machine Learning & Generative AI
+## 📊 GitHub Stats
 
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Generative AI
-- Large Language Models (LLMs)
-- RAG (Retrieval-Augmented Generation)
-- AI Agents
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaydeosawale&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaydeosawale&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 About Me
+
+I'm a software engineer passionate about building **end-to-end applications** across:
+- 🤖 **AI/ML Systems** - Production AI, LLMs, RAG, AI Agents
+- 📱 **Mobile Development** - Native Android (Kotlin) & Flutter Multiplatform
+- ⚙️ **Backend Engineering** - FastAPI, MLOps, CI/CD, Docker
+
+I transform ideas into production-ready solutions with a focus on scalability, performance, and user experience.
+
+---
+
+## 🧠 Core Competencies
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Specialties:**
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs) & Transformers
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Multi-Agent Systems
 - Natural Language Processing (NLP)
-- Transformers
+- Neural Networks & Computer Vision
 
----
+### Backend & MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## ⚙️ AI Engineering & MLOps
-
-- Python
-- FastAPI
-- Machine Learning Model Training & Evaluation
+**Specialties:**
+- Production ML Workflows
 - MLflow Experiment Tracking
-- Model Versioning
-- Data Validation
-- Docker
-- Git & GitHub
-- GitHub Actions / CI/CD
-- Production AI & ML Systems
+- Model Versioning & Registry
+- CI/CD Pipelines
+- Data Validation & Contracts
+- API Development
+
+### Mobile & Multiplatform
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Specialties:**
+- Native Android Development
+- Flutter Multiplatform (iOS, Android, Web, Desktop)
+- Cross-Platform Architecture
+- UI/UX Implementation
+- Native Integrations
 
 ---
 
-## 📱 Mobile & Multiplatform Development
+## 🔥 Featured Projects
 
-### 🤖 Native Android Development
-
-- Kotlin
-- Android SDK
-- Native Android Applications
-- Android Application Development
-
-### 💙 Flutter Multiplatform Development
-
-- Flutter
-- Dart
-- Android
-- iOS
-- Web
-- Desktop Applications
-
----
-
-# 🔥 Featured Projects
-
-## 🛡️ MessageShield AI
-
-An AI-powered message safety and classification platform designed to analyze messages and identify potential safety risks.
-
-**Key areas:**
-
-- Machine Learning-based message classification
-- Message safety and risk analysis
-- Backend APIs
-- Model evaluation
-- Data validation
-- CI/CD workflows
-- Production engineering practices
-
----
-
-## 🚨 FraudGuard MLOps
-
-An end-to-end Machine Learning and MLOps project focused on building reproducible and production-oriented ML workflows.
-
-**Key areas:**
-
-- Data validation and contracts
-- Model training and evaluation
-- MLflow experiment tracking
-- Model registration and versioning
-- Docker
-- CI/CD
-- Production ML workflows
-
----
-
-## ⚖️ LegalLens AI
-
-A Generative AI and RAG-based project designed for intelligent document exploration and information retrieval.
-
-**Key areas:**
-
-- Generative AI
-- RAG architecture
-- Document processing
-- Semantic retrieval
-- LLM-powered question answering
-
----
-
-## ✈️ AI Travel Planner
-
-An AI-powered travel planning application combining multiplatform development, backend engineering, and AI technologies.
-
-**Technology areas:**
-
-- Flutter
-- FastAPI
-- AI-powered planning
-- API integration
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ MessageShield AI</h3>
+      <p>AI-powered message safety and classification platform</p>
+      <p><strong>Stack:</strong> Python, ML, FastAPI, CI/CD</p>
+      <p><a href="https://github.com/Jaydeosawale/messageshield-ai">View Project →</a></p>
+    </td>
+    <td width="50%">
+      <h3>🚨 FraudGuard MLOps</h3>
+      <p>End-to-end ML project with production workflows</p>
+      <p><strong>Stack:</strong> Python, MLflow, Docker, CI/CD</p>
+      <p><a href="https://github.com/Jaydeosawale/fraudguard-mlops">View Project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚖️ LegalLens AI</h3>
+      <p>RAG-based document analysis with LLMs</p>
+      <p><strong>Stack:</strong> Python, LLMs, RAG, NLP</p>
+      <p><a href="https://github.com/Jaydeosawale/LegalLens-AI">View Project →</a></p>
+    </td>
+    <td width="50%">
+      <h3>✈️ Trav-Planner AI</h3>
+      <p>AI-powered travel planner with multi-agent AI</p>
+      <p><strong>Stack:</strong> Flutter, FastAPI, LangGraph, AI Agents</p>
+      <p><a href="https://github.com/Jaydeosawale/trav-planner">View Project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💬 AI-Nexus</h3>
+      <p>Advanced AI experimentation and integration</p>
+      <p><strong>Stack:</strong> Python, LLMs, API Integration</p>
+      <p><a href="https://github.com/Jaydeosawale/AI-Nexus">View Project →</a></p>
+    </td>
+    <td width="50%">
+      <h3>📦 Portfolio</h3>
+      <p>Professional portfolio showcasing expertise</p>
+      <p><strong>Stack:</strong> Dart, Flutter, Design</p>
+      <p><a href="https://github.com/Jaydeosawale/Jaydeo-Sawale-Portfolio">View Project →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Languages
-
-`Python` • `Kotlin` • `Dart`
-
-### AI & Machine Learning
-
-`Machine Learning` • `Deep Learning` • `Neural Networks` • `LLMs` • `RAG` • `NLP` • `Transformers` • `AI Agents`
-
-### Backend & MLOps
-
-`FastAPI` • `MLflow` • `Docker` • `Git` • `GitHub Actions` • `CI/CD`
-
-### Mobile & Multiplatform
-
-`Native Android` • `Kotlin` • `Android SDK` • `Flutter` • `Dart`
+```
+Languages       → Python, Kotlin, Dart, TypeScript
+AI/ML           → TensorFlow, PyTorch, Scikit-Learn, LangGraph
+LLMs & RAG      → OpenAI, Anthropic, LangChain, Vector DBs
+Backend         → FastAPI, Django, RESTful APIs
+Mobile          → Flutter, Native Android (Kotlin)
+MLOps           → MLflow, Docker, CI/CD, GitHub Actions
+Databases       → PostgreSQL, MongoDB, Vector Databases
+Cloud & DevOps  → Docker, Git, GitHub, Deployment
+```
 
 ---
 
-## 🎯 Currently Learning & Building
+## 📈 Currently Learning & Building
 
-- Deep Learning from First Principles
-- Advanced Machine Learning
-- Neural Networks
-- Transformers
-- Large Language Models
-- Advanced RAG Systems
-- AI Agents
-- Production AI Engineering
-- MLOps
+- 🧠 Advanced Deep Learning architectures
+- 🤖 Complex AI Agent systems
+- 🔬 Cutting-edge RAG implementations
+- 🚀 Large-scale ML systems
+- ⚡ Production AI engineering best practices
 
 ---
 
-## 💡 My Goal
+## 🎓 Focus Areas
 
-To build **intelligent, scalable, and production-ready applications** by combining:
-
-> **AI + Machine Learning + Deep Learning + Software Engineering + Mobile & Multiplatform Development**
+| Area | Skills |
+|------|--------|
+| **AI/ML** | LLMs, RAG, Transformers, NLP, Computer Vision, AI Agents |
+| **MLOps** | Model versioning, Experiment tracking, CI/CD, Data validation |
+| **Backend** | FastAPI, REST APIs, Database design, Scalable architecture |
+| **Mobile** | Flutter, Kotlin, Native development, Cross-platform apps |
+| **DevOps** | Docker, GitHub Actions, CI/CD, Cloud deployment |
 
 ---
 
-### 🚀 Building practical AI-powered applications for real-world problems.
+## 🌐 Connect & Explore
 
-- 🌐 Portfolio: https://jaydeo-sawale-portfolio.vercel.app/
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://jaydeo-sawale-portfolio.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaydeosawale)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydeo-sawale)
+  
+  <br/>
+  
+  **🚀 Building practical AI-powered solutions for real-world problems**
+  
+  ⭐ Feel free to explore my repositories and follow my journey!
 
-⭐ Feel free to explore my repositories and follow my journey!
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Jaydeosawale&style=flat-square&color=blue)
+  
+</div>
